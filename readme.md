@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thepavantejz/Lora-observatory/blob/main/lora_learning_observatory.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19C68qRCOC9VYm2bHD_-4Aewxu4zqtf_0#scrollTo=ZaAeQ16Y2au9)
 
 
 # LoRA Learning Observatory
